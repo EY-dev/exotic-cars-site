@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a69a1b7be038c3b2a3283bfb16dd9da9.js"
+  "/exotic-cars-site/precache-manifest.35da1d2c8c243d5ed1d2b9d4f29fab88.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "exotic-car"});
